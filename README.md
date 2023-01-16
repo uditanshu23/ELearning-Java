@@ -1,2 +1,1 @@
-# ELearning-Java
-E-Learning Platform
+# ELearning
